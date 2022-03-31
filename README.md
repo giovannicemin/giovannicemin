@@ -33,7 +33,7 @@ I am also a open-source enthusiasm, I love the collaborations and knowledge shar
   <img src="https://www.gnu.org/software/emacs/images/emacs.png" alt="bash" width="50" height="50"/> </a> 
 
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/150px-LaTeX_logo.svg.png" alt="bash" width="50" height="50"/> </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/150px-LaTeX_logo.svg.png" alt="bash" width="80" height="50"/> </a> 
   
   <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png" alt="bash" width="50" height="50"/> </a> 
