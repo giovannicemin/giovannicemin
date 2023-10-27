@@ -1,5 +1,5 @@
 ### Hi there!
-I am @giovannicemin, a Master Physics studend @ UniTN interested in computational physics and simulations.
+I am @giovannicemin, a PhD Physics studend @ MPI-PKS interested in machine learning and simulations.
 
 I am also a open-source enthusiasm, I love the collaborations and knowledge sharing inside the community from which I learned a lot.
 
